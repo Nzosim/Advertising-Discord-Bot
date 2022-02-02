@@ -1,0 +1,7 @@
+{
+"token": "your token here",
+"pub_channel": [938481434207871046, 938481434207871046, 938481434207871046, 938481434207871046],
+"message": ["line 1", "line 2", "line 3"],
+"bot_id" : "your bot id here",
+"image" : "link of the embed image here"
+}
